@@ -144,7 +144,7 @@ HTTP 파이프라이닝이 활성화되면, 첫번째 응답을 완전히 수신
 
 - `Method`<br>보통 클라이언트가 수행하고자 하는 동작을 정의한 `GET`, `POST` 같은 동사나 `OPTIONS`나 `HEAD`와 같은 명사이다. 일반적으로, 클라이언트는 리소스를 가져오거나 HTML 폼의 데이터를 전송하려고 하지만, 다른 경우에는 다른 동작이 요구될 수도 있다.
 - `Path`<br>프로토콜, 도메인 또는 TCP 포트인 요소들을 제거한 리소스의 URL이다.
-- `HTTP Protocol version
+- `HTTP Protocol version`
 - `Headers`
 
 ### 응답
