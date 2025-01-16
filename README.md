@@ -9,3 +9,4 @@
 2. <p><a href="https://github.com/smnm1998/goingToStudy/blob/main/Internet/HTTP.md">HTTP</a></p>
 3. <p><a href="https://github.com/smnm1998/goingToStudy/blob/main/Internet/Domain%20name.md">Domain name</a></p>
 4. <p><a href="https://github.com/smnm1998/goingToStudy/blob/main/Internet/%EC%9B%B9%20%ED%98%B8%EC%8A%A4%ED%8C%85.md">웹 호스팅</a></p>
+5. <p><a href="https://github.com/smnm1998/goingToStudy/blob/main/Internet/DNS.md">DNS</a></p>
